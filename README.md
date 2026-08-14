@@ -1,67 +1,95 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                     SJSHSTUDIO PROFILE                       -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=SJSHSTUDIO&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SJSHSTUDIO&fontSize=65&fontColor=ffffff&animation=fadeIn&color=0:09001a,25:4b0082,55:7F00FF,80:00C6FF,100:00F5A0&desc=DEVELOP%20%E2%80%A2%20DESIGN%20%E2%80%A2%20CREATE&descSize=18&descAlignY=68"/>
 
-# `👋 Hello, I'm SjShStudio`
+<br>
 
-### `Full-Stack Developer` • `App Developer` • `FiveM Scripter` • `UI/UX Designer`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00F5A0&center=true&vCenter=true&width=850&lines=Welcome+to+SjShStudio+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;FiveM+Developer+%F0%9F%8E%AE;App+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;Turning+ideas+into+reality+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Building+modern+digital+experiences+%F0%9F%9A%80;Creating+powerful+FiveM+resources+%F0%9F%8E%AE;Designing+clean+and+modern+UIs+%F0%9F%8E%A8;Turning+ideas+into+real+projects+%E2%9A%A1;Always+learning.+Always+building.+%F0%9F%A7%A0" alt="Typing SVG" />
-
-<br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=SjShStudio&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/SjShStudio?style=for-the-badge&color=00C6FF&labelColor=0D1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/SjShStudio?style=for-the-badge&color=00C6FF&labelColor=09001a&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/SjShStudio?style=for-the-badge&color=ffd700&labelColor=09001a&logo=github&label=STARS"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+<div align="center">
+
+# 🧬 `whoami`
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                     👨‍💻  SJSHSTUDIO                       ║
+║                                                            ║
+║   ⚡ Full-Stack Developer                                  ║
+║   🎮 FiveM Developer                                       ║
+║   📱 App Developer                                         ║
+║   🎨 UI/UX Designer                                        ║
+║                                                            ║
+║   "I don't just write code. I build experiences."          ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🚀 What I Build
 
 <table>
 <tr>
-<td width="55%">
+<td width="20%" align="center">
 
-### 🚀 Who am I?
+### 🌐
 
-I'm **SjShStudio**, a developer focused on creating modern, scalable and visually impressive digital experiences.
+### WEB
 
-I work across **web development, application development, FiveM scripting and UI/UX design**.
-
-```yaml
-Name: SjShStudio
-Role: Developer
-Focus:
-  - Web Development
-  - App Development
-  - FiveM Development
-  - UI/UX Design
-
-Mindset: "Build it. Improve it. Repeat."
-```
+Modern interfaces, responsive websites and powerful web systems.
 
 </td>
 
-<td width="45%">
+<td width="20%" align="center">
 
-### 🎯 What I Do
+### ⚙️
 
-```text
-🌐 Frontend Development
-⚙️ Backend Development
-🎮 FiveM Scripting
-📱 App Development
-🎨 UI / UX Design
-🧠 Problem Solving
-🚀 Performance Optimization
-```
+### BACKEND
+
+Scalable systems, APIs and application logic.
+
+</td>
+
+<td width="20%" align="center">
+
+### 🎮
+
+### FIVEM
+
+Custom resources, Lua scripting and NUI systems.
+
+</td>
+
+<td width="20%" align="center">
+
+### 📱
+
+### APPS
+
+Application development with performance in mind.
+
+</td>
+
+<td width="20%" align="center">
+
+### 🎨
+
+### UI/UX
+
+Clean, modern and interactive interfaces.
 
 </td>
 </tr>
@@ -69,85 +97,87 @@ Mindset: "Build it. Improve it. Repeat."
 
 ---
 
-# 🧠 Core Expertise
+# 🧠 Tech Arsenal
 
 <div align="center">
 
-|    🌐 Frontend    | ⚙️ Backend |  🎮 FiveM |         📱 Apps         |
-| :---------------: | :--------: | :-------: | :---------------------: |
-|     Modern UI     |    APIs    |    Lua    | Application Development |
-| Responsive Design |   Systems  | Resources |       Performance       |
-|         UX        |    Logic   |    NUI    |       Architecture      |
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=html,css,java,cpp,cs,lua,python,rust&perline=8&theme=dark" />
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=8&theme=dark" />
 
 </div>
 
 ---
 
-# 💻 Tech Arsenal
-
-### 🌐 Web
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-### 🧠 Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,lua,python,rust&theme=dark" />
-</p>
-
-### 🛠️ Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
-</p>
-
----
-
-# 🎮 FiveM Development
+# 🎮 FiveM Laboratory
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FiveM-Development-F40552?style=for-the-badge&logo=rockstargames&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/NUI-UI%20Development-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Resources-Custom-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FiveM-Developer-F40552?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua"/>
+<img src="https://img.shields.io/badge/NUI-Interfaces-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Custom-Resources-00C6FF?style=for-the-badge"/>
 
-<br/><br/>
+<br><br>
 
 ```text
-╭──────────────────────────────────────────────────────╮
-│                   🎮 SJSHSTUDIO                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│   ⚡ Custom FiveM Resources                          │
-│   🌙 Lua Scripting                                   │
-│   🎨 NUI / UI Systems                                │
-│   🔧 Server-side Development                         │
-│   🧩 Client-side Systems                             │
-│   🚀 Performance & Optimization                      │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+             ╔══════════════════════════╗
+             ║     🎮 SJSHSTUDIO        ║
+             ╠══════════════════════════╣
+             ║                          ║
+             ║  ⚡ Lua Scripting        ║
+             ║  🧩 Custom Resources     ║
+             ║  🎨 NUI / UI Systems     ║
+             ║  🔧 Server Systems       ║
+             ║  🚀 Optimization         ║
+             ║  💾 Database Systems     ║
+             ║                          ║
+             ╚══════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🐍 Snake Zone
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SjShStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+### `WATCH MY CONTRIBUTIONS COME ALIVE`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SjShStudio&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/SjShStudio/SjShStudio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br>
+
+<a href="https://github.com/SjShStudio/Snake-Game">
+
+<img src="https://img.shields.io/badge/🎮%20PLAY%20SNAKE-CLICK%20TO%20PLAY-7F00FF?style=for-the-badge&labelColor=09001a"/>
+
+</a>
+
+<br><br>
+
+<sub>🐍 Eat • Grow • Survive • Beat the High Score</sub>
 
 </div>
 
-<br/>
+---
+
+# 📊 GitHub Command Center
 
 <div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SjShStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SjShStudio&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=SjShStudio&theme=tokyonight&hide_border=true&border_radius=12"/>
 
@@ -155,102 +185,102 @@ Mindset: "Build it. Improve it. Repeat."
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SjShStudio&bg_color=0d1117&color=7F00FF&line=00C6FF&point=00F5A0&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SjShStudio&bg_color=09001a&color=00F5A0&line=7F00FF&point=00C6FF&area=true&area_color=7F00FF&hide_border=true&custom_title=SjShStudio%20Contribution%20Matrix"/>
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+# 🔥 Current Mission
 
-<table>
-<tr>
-<td>
-
-### 🔥 Building
-
-Advanced and useful projects with modern architecture.
-
-</td>
-<td>
-
-### 🎨 Designing
-
-Clean, responsive and attractive interfaces.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎮 Developing
-
-Powerful FiveM resources and custom systems.
-
-</td>
-<td>
-
-### 🧠 Learning
-
-New technologies, frameworks and development techniques.
-
-</td>
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] 🚀 Build powerful & scalable applications              │
+│                                                              │
+│  [02] 🎮 Create advanced FiveM resources                    │
+│                                                              │
+│  [03] 🎨 Design beautiful & responsive interfaces             │
+│                                                              │
+│  [04] 📱 Explore modern application development              │
+│                                                              │
+│  [05] 🧠 Learn something new every day                       │
+│                                                              │
+│  [06] ⚡ Turn crazy ideas into real projects                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🧩 My Languages
+# 🏆 Developer Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SjShStudio&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🏆 Developer Philosophy
+# 🧩 Developer DNA
 
 <div align="center">
 
-> ### **"Don't just write code. Build experiences."**
-
-<br/>
-
-`CREATE` → `LEARN` → `IMPROVE` → `BUILD` → `REPEAT`
+```text
+                    ┌───────────────┐
+                    │   SJSHSTUDIO  │
+                    └───────┬───────┘
+                            │
+            ┌───────────────┼───────────────┐
+            │               │               │
+            ▼               ▼               ▼
+        💻 CODE          🎨 DESIGN       🎮 CREATE
+            │               │               │
+            └───────────────┼───────────────┘
+                            │
+                            ▼
+                       🚀 PROJECTS
+                            │
+                            ▼
+                       🌎 EXPERIENCE
+```
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🌌 Beyond The Code
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Curiosity+%3E+Talent;Consistency+%3E+Motivation;Clean+Code+%3E+Quick+Code;Ideas+%2B+Code+%3D+Reality" />
+
+<br><br>
+
+### `CREATE → LEARN → IMPROVE → BUILD → REPEAT`
+
+</div>
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/SjShStudio">
-<img src="https://img.shields.io/badge/GitHub-SjShStudio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-SjShStudio-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=09001a"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Always%20Building-🚀-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always%20Learning-🧠-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATING-00F5A0?style=for-the-badge"/>
 
 </div>
 
@@ -258,10 +288,12 @@ New technologies, frameworks and development techniques.
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving my projects a star!
+### ⭐ Thanks for visiting my profile!
 
-<br/>
+`Made with ☕ + 💻 + 🚀`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5A0,30:00C6FF,70:7F00FF,100:09001a"/>
 
 </div>
